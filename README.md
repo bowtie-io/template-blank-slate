@@ -6,7 +6,7 @@
 
 
 ## Documentation
-This template is compatible with Jekyll 3.x. Jekyll will interpret liquid, markdown, and  standard HTML. For information on using Jekyll see their [documentation](//jekyll.rb). For thorough documentation of this template and the added BowTie features, view the [BowTie docs](https://bowtie.io/docs/).
+This template is compatible with Jekyll 3.x. Jekyll will interpret liquid, markdown, and  standard HTML. For information on using Jekyll see their [documentation](http://jekyllrb.com/). For thorough documentation of this template and the added BowTie features, view the [BowTie docs](https://bowtie.io/docs/).
 
 ## Usage
 
